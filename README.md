@@ -4,18 +4,7 @@
 <img src="FOTO.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
-Este projeto consiste em uma calculadora de funções trigonométricas básicas (seno, cosseno e tangente) para um determinado ângulo em graus. Aqui estão as principais funcionalidades implementadas:
-
-1. Inserir Ângulo:
-   - Digite o ângulo em graus no campo "ÂNGULO".
-
-2. Calcular:
-   - Clique no botão "CALCULAR" para calcular o seno, cosseno e tangente do ângulo inserido.
-   - Os resultados serão exibidos abaixo do botão, fornecendo os valores calculados para seno, cosseno e tangente.
-
-3. Limpar Campos:
-   - Se desejar limpar o campo de entrada e os resultados, clique no botão "LIMPAR".
-   - Isso restaurará o campo de entrada para seu valor padrão e ocultará os resultados.
+Este projeto consiste em uma calculadora de funções trigonométricas básicas (seno, cosseno e tangente) para um determinado ângulo em graus. 
 
 ## COMO USAR?
 ### BAIXANDO O PROJETO:
