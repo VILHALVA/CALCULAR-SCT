@@ -35,5 +35,3 @@ Este projeto é uma calculadora de seno, cosseno e tangente que permite aos usu�
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
-
